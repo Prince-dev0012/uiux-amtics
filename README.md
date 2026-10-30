@@ -60,9 +60,3 @@ Dark mode native — Not an afterthought; both themes are designed equally
 
 
 figma link- https://www.figma.com/design/Owpnh66dLAjFPmcOwuknN8/Untitled?node-id=0-1&t=gSVfhdekenvYwmR9-1
-Component-driven — Feature cards are isolated, reusable components (shown standalone in the UI)
-Tech Stack (assumed)
-Framework: Next.js / React
-Styling: Tailwind CSS
-Icons: Lucide / Radix
-Theme: CSS custom properties with prefers-color-scheme + manual toggle
