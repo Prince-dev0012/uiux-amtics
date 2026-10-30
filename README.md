@@ -56,6 +56,10 @@ Design Principles
 Purple-first identity — One accent color used consistently; not decorative, functional
 Whitespace over chrome — Minimal borders, generous padding; content does the work
 Dark mode native — Not an afterthought; both themes are designed equally
+
+
+
+figma link- https://www.figma.com/design/Owpnh66dLAjFPmcOwuknN8/Untitled?node-id=0-1&t=gSVfhdekenvYwmR9-1
 Component-driven — Feature cards are isolated, reusable components (shown standalone in the UI)
 Tech Stack (assumed)
 Framework: Next.js / React
