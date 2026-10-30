@@ -60,3 +60,10 @@ Dark mode native — Not an afterthought; both themes are designed equally
 
 
 figma link- https://www.figma.com/design/Owpnh66dLAjFPmcOwuknN8/Untitled?node-id=0-1&t=gSVfhdekenvYwmR9-1
+
+
+i have other projects as well- https://www.figma.com/proto/IUrF7IhTuPkptWL6SaVGEL/pravah-pixelcraft-by-Prince--2022506101420012-?node-id=19-53&starting-point-node-id=19%3A53&t=T5Xxc30JiYlT4bp3-1
+
+and 
+
+https://www.figma.com/proto/TktCzUj9RQsonFl6zwuP5Z/testing?node-id=19-102&t=1oXgaVVvLbmSU200-1
